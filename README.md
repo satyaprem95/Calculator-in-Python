@@ -21,4 +21,3 @@ This is a basic calculator implemented using `ipywidgets` in Google Colab. It pr
 4. Press `C` to clear the input field.
 
 
-
